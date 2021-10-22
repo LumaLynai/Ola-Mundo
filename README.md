@@ -1,3 +1,5 @@
 # Olá, Mundo!
- primeirorepositorioversionado
- edicao diretoGitHub
+ primeiro repositorio versionado
+ 
+ 
+ Edicao direto no GitHub
